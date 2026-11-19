@@ -10,12 +10,12 @@
 | 2 | Тема курсовой №2 | [`team-02`](../../tree/team-02) | @WatermelonArchon, @din-din02 |
 | 3 | Тема курсовой №3 | [`team-03`](../../tree/team-03) | @Sofia-codesdev, @BellyTheFairy, @RypkaKoi |
 | 4 | Тема курсовой №4 | [`team-04`](../../tree/team-04) | @funikulor61, @fashionangel, @unknown5325 |
-| 5 | Тема курсовой №5 | [`team-05`](../../tree/team-05) | @user5, @user6 |
-| 6 | Тема курсовой №6 | [`team-06`](../../tree/team-06) | @user5, @user6 |
+| 5 | Тема курсовой №5 | [`team-05`](../../tree/team-05) | @daizzyls, @user6 |
+| 6 | Тема курсовой №6 | [`team-06`](../../tree/team-06) | @CchAncE777 |
 | 7 | Тема курсовой №7 | [`team-07`](../../tree/team-07) | @F0reVxR, @Somer897, @CTETTALLIKAs67 |
 | 8 | Тема курсовой №8 | [`team-08`](../../tree/team-08) | @emporomenkou|
-| 9 | Тема курсовой №9 | [`team-09`](../../tree/team-09) | @diashka67, @user6 |
-| 10 | Тема курсовой №10 | [`team-10`](../../tree/team-10) | @user251-star, @user6 |
+| 9 | Тема курсовой №9 | [`team-09`](../../tree/team-09) | @diashka67, @WinLeaf1239 |
+| 10 | Тема курсовой №10 | [`team-10`](../../tree/team-10) | @user251-star, @garikharlamoff |
 
 ## Правила (кратко)
 
