@@ -6,16 +6,16 @@
 
 | Команда | Тема | Ветвь | Участники |
 |---------|------|-------|-----------|
-| 1 | Тема курсовой №1 | [`team-01`](../../tree/team-01) | @M4G1C19, @Vanya384 |
+| 1 | Тема курсовой №1 | [`RedTeam`](../../tree/Red) | @M4G1C19, @Vanya384 |
 | 2 | Home Secretary Dashboard | [`BurgundyTeam`](../../tree/Burgundy) | @WatermelonArchon, @din-din02 |
-| 3 | Тема курсовой №3 | [`team-03`](../../tree/team-03) | @Sofia-codesdev, @BellyTheFairy, @RypkaKoi |
-| 4 | Тема курсовой №4 | [`HeavyBlueTeam`](../../tree/team-04) | @funikulor61, @fashionangel, @unknown5325 |
-| 5 | Тема курсовой №5 | [`team-05`](../../tree/team-05) | @daizzyls, @user6 |
-| 6 | Тема курсовой №6 | [`PurpleTeam`](../../tree/team-06) | @CchAncE777 |
-| 7 | Тема курсовой №7 | [`OliveTeam`](../../tree/team-07) | @F0reVxR, @Somer897, @CTETTALLIKAs67 |
-| 8 | Тема курсовой №8 | [`team-08`](../../tree/team-08) | @emporomenkou|
-| 9 | Тема курсовой №9 | [`PinkTeam`](../../tree/team-09) | @diashka67, @WinLeaf1239 |
-| 10 | Тема курсовой №10 | [`WhiteTeam`](../../tree/team-10) | @user251-star, @garikharlamoff |
+| 3 | Тема курсовой №3 | [`GreenTeam`](../../tree/Green) | @Sofia-codesdev, @BellyTheFairy, @RypkaKoi |
+| 4 | Тема курсовой №4 | [`HeavyBlueTeam`](../../tree/Blue) | @funikulor61, @fashionangel, @unknown5325 |
+| 5 | Тема курсовой №5 | [`BlackTeam`](../../tree/Black) | @daizzyls, @Korch34 |
+| 6 | Тема курсовой №6 | [`PurpleTeam`](../../tree/Purple) | @CchAncE777 |
+| 7 | Тема курсовой №7 | [`OliveTeam`](../../tree/Olive) | @F0reVxR, @Somer897, @CTETTALLIKAs67 |
+| 8 | Тема курсовой №8 | [`YellowTeam`](../../tree/Yellow) | @emporomenkou|
+| 9 | Тема курсовой №9 | [`PinkTeam`](../../tree/Pink) | @diashka67, @WinLeaf1239 |
+| 10 | Тема курсовой №10 | [`WhiteTeam`](../../tree/White) | @user251-star, @garikharlamoff |
 
 ## Правила (кратко)
 
@@ -30,6 +30,6 @@
 ## Быстрый старт для команды
 
 ```bash
-git clone --branch team-01 --single-branch https://github.com/Kordebalet67/coursework-2026.git
+git clone --branch team-01 --single-branch https://github.com/Courseworks2027/Courseworks_2027.git
 cd coursework-2026
 ```
